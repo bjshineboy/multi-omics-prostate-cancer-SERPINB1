@@ -1,0 +1,24 @@
+
+===== ANALYSIS STARTED: 2025-08-25 06:13:42 =====
+
+--- Loading and QC ---
+Raw data dimensions: 37082 4992 
+After QC filtering: 37082 4988 
+
+--- Normalization ---
+
+--- Target Gene Analysis ---
+
+--- PMN-MDSC Scoring ---
+
+--- Spatial Statistics ---
+
+--- NE Activity Analysis ---
+
+--- Region Definition ---
+
+--- Visualization ---
+
+===== ANALYSIS COMPLETED SUCCESSFULLY =====
+Intermediate files saved to: intermediate_files_20250825_061635.zip 
+Final results saved to final_results/
