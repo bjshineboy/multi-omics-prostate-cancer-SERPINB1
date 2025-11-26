@@ -51,17 +51,9 @@ Note: Some scripts (e.g., Figure2.R) may call subsidiary scripts (e.g., Figure2.
 
 📊 Data Availability
 
-• Original Public Data: The multi-omics data analyzed in this study are available from public repositories:
+• The processed multi-omics data required to run the code in this repository is available from the Science Data Bank (ScienceDB).
 
-    ◦ TCGA-PRAD: https://portal.gdc.cancer.gov/
-
-    ◦ Single-cell RNA-seq: Gene Expression Omnibus (GEO) accession number GSEXXXXXX (to be updated upon publication).
-
-    ◦ ChIP-seq: Data sourced from http://cistrome.org/ or equivalent.
-
-• Clinical Cohort Data: The methylation data from patient urine samples (n=54) are available in the clinical_validation/ folder. Patient identifiers have been removed to protect privacy.
-
-• Code and Processed Data: All code and processed data necessary to replicate the figures are contained within this repository.
+**Download data:** https://www.scidb.cn/en/anonymous/dXkyZXVl
 
 ⚠️ Important Notes
 
@@ -85,3 +77,4 @@ For questions regarding the code or data, please open an issue in this repositor
 • Yi He:heyi_jxhospital@outlook.com
 
 • Affiliation: The Affiliated Hospital of Jiaxing University
+
