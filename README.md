@@ -69,7 +69,7 @@ If you use this code or findings from our study in your research, please cite:
 
 Full citation to be added upon manuscript acceptance for publication.
 
-Yi He, Wenhua Xie, Shengjie Dai2, Zhenxuan Fang et al. (2025). Multi-Omics Integration Reveals SERPINB1 Epigenetic Silencing as a Key Mediator of Immunosuppressive Microenvironment and Metastasis in Prostate Cancer.
+Yi He, Wenhua Xie, Shengjie Dai, Zhenxuan Fang et al. (2025). Multi-Omics Integration Reveals SERPINB1 Epigenetic Silencing as a Key Mediator of Immunosuppressive Microenvironment and Metastasis in Prostate Cancer.
 
 🤝 Contact
 
@@ -77,4 +77,5 @@ For questions regarding the code or data, please open an issue in this repositor
 • Yi He:heyi_jxhospital@outlook.com
 
 • Affiliation: The Affiliated Hospital of Jiaxing University
+
 
