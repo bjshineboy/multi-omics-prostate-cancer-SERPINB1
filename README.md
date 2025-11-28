@@ -16,17 +16,6 @@ This study integrates data from The Cancer Genome Atlas (TCGA), single-cell/spat
 • Translation: Urinary SERPINB1 promoter methylation shows promise as a non-invasive diagnostic biomarker.
 
 
-Main Analysis Scripts:
-• Figure1.R: Pan-cancer and foundational PCa analysis of SERPINB1 methylation.
-
-• Figure2.A.R, Figure2.B.R, etc.: Individual panels of Figure 2 (e.g., methylation vs. mRNA correlations).
-
-• Figure3.R: Analysis of the tumor microenvironment and immune cell interactions.
-
-• Figure4.R: Survival analysis and clinical correlation.
-
-• Figure5.R: Validation and mechanistic insights (e.g., organ-specific epigenetic patterns).
-
 🚀 Quick Start Guide
 
 1. Prerequisites
@@ -53,7 +42,7 @@ Note: Some scripts (e.g., Figure2.R) may call subsidiary scripts (e.g., Figure2.
 
 • The processed multi-omics data required to run the code in this repository is available from the Science Data Bank (ScienceDB).
 
-**Download data:** https://www.scidb.cn/en/anonymous/dXkyZXVl
+**Download data:** https://doi.org/10.57760/sciencedb.31949. 
 
 ⚠️ Important Notes
 
@@ -77,5 +66,6 @@ For questions regarding the code or data, please open an issue in this repositor
 • Yi He:heyi_jxhospital@outlook.com
 
 • Affiliation: The Affiliated Hospital of Jiaxing University
+
 
 
