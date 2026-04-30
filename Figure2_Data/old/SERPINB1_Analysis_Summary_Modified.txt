@@ -1,0 +1,41 @@
+SERPINB1 COMPREHENSIVE ANALYSIS SUMMARY (Modified Version with Separate Tumor/Normal Regression)
+===================================================
+
+DATA SUMMARY:
+  - Total samples in merged data: 498 
+  - SERPINB1 CpG sites analyzed: 13 
+  - Promoter CpG sites: 13 
+  - Methylation tertile cutoffs: 0.48 0.617 
+  - Sample distribution by methylation group:
+    * Low Methylation: 166 samples (33.3%)
+    * Medium Methylation: 166 samples (33.3%)
+    * High Methylation: 166 samples (33.3%)
+
+METHYLATION-EXPRESSION CORRELATION (Modified):
+  - Tumor: ρ = NA, P = NA, N = 0
+  - Normal: ρ = NA, P = NA, N = 0
+
+FIGURE COMPONENTS (Modified Version):
+  A. Overall Survival (OS)
+  B. Disease-Specific Survival (DSS)
+  C. Progression-Free Interval (PFI)
+  D. SERPINB1 methylation vs. Gleason score correlation
+  E. SERPINB1 methylation vs. NE-MAPK pathway correlation
+  F. SERPINB1 promoter methylation vs. expression correlation (Tumor and Normal with separate regression lines)
+
+FILES GENERATED:
+  1. SERPINB1_Comprehensive_Figure_Modified_F.png/pdf - Complete composite figure
+  2. SERPINB1_Survival_Plots_Modified_F.png - All survival plots (A-C)
+  3. SERPINB1_Methylation_Expression_Plot_Modified.png - Methylation-expression plot (F) only
+  4. SERPINB1_Survival_Data_Modified.csv - Survival analysis data
+  5. SERPINB1_Gleason_Correlation_Modified.csv - Gleason correlation results
+  6. SERPINB1_NE-MAPK_Correlation_Modified.csv - NE-MAPK correlation results
+  7. SERPINB1_Methylation_Expression_Correlation_by_Group_Modified.csv - Methylation-expression results by group
+  8. SERPINB1_Methylation_Expression_Data_Modified.csv - Methylation-expression raw data
+  9. SERPINB1_Analysis_Summary_Modified.txt - This summary file
+
+MODIFICATIONS TO F PLOT:
+  1. Added separate regression lines for Tumor and Normal samples
+  2. Added correlation statistics for both Tumor and Normal groups
+  3. Improved labeling and positioning of statistical annotations
+ANALYSIS COMPLETED SUCCESSFULLY!

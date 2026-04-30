@@ -11,7 +11,7 @@ library(showtext)      # For Chinese font support
 library(colorspace)
 
 # Set working directory
-setwd("data/GSE289468_metastatic/")
+setwd("/work/singleCell/prostate_singecell_20250627/GSE_Raw/sci/atac_chip_seq/GSE289468_晚期前列腺癌转移至其他器官//suppl/")
 
 # ------------------------- 1. Initialize Chinese font support -------------------------
 # Load Chinese fonts
@@ -223,8 +223,7 @@ final_plot <- (p1 + p2) / wrap_elements(grid.grabExpr(draw(ht))) +
                   theme = theme(plot.title = element_text(size = 16, face = "bold", hjust = 0.5)))
 
 
-setwd("Figure5_Data")
-
+setwd("/work/singleCell/prostate_singecell_20250627/GSE_Raw/sci/SERPNB1_sci_20250829/code/2/Figure5_Data")
 # ---------------------------
 # 1. Save Initial Metadata
 # ---------------------------

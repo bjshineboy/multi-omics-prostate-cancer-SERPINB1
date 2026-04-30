@@ -1,0 +1,2 @@
+"Test","t_statistic","p_value","CI_lower","CI_upper","Tumor_mean","Normal_mean","Mean_Difference"
+"Two-sample t-test (all CpG sites)",-25.5063930653571,1.96904963057798e-96,-0.296229476346433,-0.253869187107382,0.2950786,0.570127931726908,-0.275049331726908
