@@ -1,15 +1,15 @@
 SERPINB1 Epigenetic Regulation in Prostate Cancer Metastasis and Immune Evasion
 
-Project Title: Multi-Omics Integration Reveals SERPINB1 Epigenetic Silencing as a Key Mediator of Immunosuppressive Microenvironment and Metastasis in Prostate Cancer
+Project Title: SERPINB1 Hypermethylation Serves as a Prognostic Biomarker and Regulator of EMT in Prostate Cancer: A Multi-Omics and Clinical Validation Study
 
 This repository contains the complete code and data required to reproduce the analyses and figures from the aforementioned study. The research employs integrative multi-omics analyses to elucidate the role of SERPINB1 promoter hypermethylation in driving immune evasion and metastatic progression in prostate cancer (PCa).
 
 🔬 Study Overview
 
-This study integrates data from The Cancer Genome Atlas (TCGA), single-cell/spatial transcriptomics, ChIP-seq, and a clinical cohort (n=54) to demonstrate:
+This study integrates data from The Cancer Genome Atlas (TCGA),  ChIP-seq, and a clinical cohort (n=54) to demonstrate:
 • Mechanism: SERPINB1 silencing, mediated by promoter hypermethylation, facilitates neutrophil elastase (NE) activity, promoting an immunosuppressive microenvironment.
 
-• Key Findings: SERPINB1 loss in Club-like cells correlates with elevated CXCL1/2/8 expression, MAPK/c-FOS signaling activation, and recruitment of polymorphonuclear myeloid-derived suppressor cells (PMN-MDSCs).
+• Key Findings: SERPINB1 is a novel epigenetically silenced gene in PCa. Its promoter hypermethylation is a potent prognostic biomarker and detectable liquid biopsy signal. The gene's association with EMT pathways and its epigenetic plasticity in metastases suggest a functional role in PCa progression, offering new avenues for risk stratification, disease monitoring, and therapeutic targeting.
 
 • Clinical Relevance: SERPINB1 hypermethylation is an independent prognostic factor associated with shorter progression-free survival and higher Gleason scores.
 
